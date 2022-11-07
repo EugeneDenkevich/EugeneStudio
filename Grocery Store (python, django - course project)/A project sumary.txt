@@ -1,0 +1,24 @@
+			Project: "A grocery store"
+A project plan:
+	1. Describe a business logic of the web application;
+	2. Describe a functionality of the website;
+	3. Make a design-project of a future website layout;
+	4. Realize it in html;
+	5. Other code in Python or something else.
+
+I. Business logic:
+	This web application needs for helping customers of a grocery store
+	to buy goods online in it, order it and pay cash or cashless.
+	Also it allows to add items to store data by store workers.
+	It must be comfortable, fast and pleasant to use.	
+
+II. Functionality:
+	1. Ordering goods;
+	2. Registering as a buyer;
+	3. Registering as a store worker;
+	4. Addition of items to the store as a store worker;
+	5. Addition of goods to cart as a customer;
+	6. Using a promo code;
+	7. Creating and editing a profile;
+	8. Frequently asked questions;
+	9. Pay cash or cashless.
